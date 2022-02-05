@@ -12,20 +12,183 @@ The course topics are focused on discussion of the films viewed in class and rea
 Reading Questions
 -----------------
 
-| SES # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| 1 | Introduction to the Course | &nbsp; |
-| 2 | Introduction to the Issues | &nbsp; |
-| {{< td-colspan 3 >}}**Dissenters on Trial**{{< /td-colspan >}} |||
-| 3 | The Trial of Socrates | Paper Topics are Due in Class |
-| 4 | _Joan of Arc_ | Initial Bibliography is Due in Class |
-| 5 | Galileo | &nbsp; |
-| 6 | Scopes | Annotated Bibliography is Due in Class |
-| {{< td-colspan 3 >}}**Society on Trial**{{< /td-colspan >}} |||
-| 7 | Salem Witch Trials | &nbsp; |
-| 8 | Victorian Trials | &nbsp; |
-| {{< td-colspan 3 >}}**Transitional Justice**{{< /td-colspan >}} |||
-| 9 | The Trials of Louis XVI and Marie-Antoinette | &nbsp; |
-| 10 | Soviet Agitation and Show Trials | &nbsp; |
-| 11 | Nuremberg War Crimes Tribunal | Final Papers are Due |
-| 12 | Human Rights Trials and Truth Commissions |
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction to the Course
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction to the Issues
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Dissenters on Trial**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+The Trial of Socrates
+{{< tdclose >}}
+{{< tdopen >}}
+Paper Topics are Due in Class
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+_Joan of Arc_
+{{< tdclose >}}
+{{< tdopen >}}
+Initial Bibliography is Due in Class
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Galileo
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Scopes
+{{< tdclose >}}
+{{< tdopen >}}
+Annotated Bibliography is Due in Class
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Society on Trial**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Salem Witch Trials
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Victorian Trials
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Transitional Justice**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+The Trials of Louis XVI and Marie-Antoinette
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Soviet Agitation and Show Trials
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Nuremberg War Crimes Tribunal
+{{< tdclose >}}
+{{< tdopen >}}
+Final Papers are Due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Human Rights Trials and Truth Commissions
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
